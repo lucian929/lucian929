@@ -13,11 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Lucian!</h1>
-- 🔭 I’m currently working on **HibiscusMC**
+- 🔭 I’m currently working on [HibiscusMC](https://hibiscusmc.com)
 
 - 🌱 I’m currently learning **JavaScript and Java**
 
 - 📫 How to reach me: **Contact me @ lucian@hibiscusmc.com**
+
+- 👨‍💻 All of my projects are available here on Github!
 
 
 <h3 align="left">Languages and Tools:</h3>
