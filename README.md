@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **JavaScript and Java**
 
-- 📫 How to reach me **Contact me @ lucian@hibiscusmc.com**
+- 📫 How to reach me: **Contact me @ lucian@hibiscusmc.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
