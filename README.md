@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Lucian!</h1>
-- 🔭 I’m currently working on [HibiscusMC](https://hibiscusmc.com)
+- 🔭 I’m currently working on [HibiscusMC](https://hibiscusmc.com)!
 
 - 🌱 I’m currently learning **JavaScript and Java**
 
