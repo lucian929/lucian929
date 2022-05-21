@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Lucian!</h1>
 
-- 🔭 I’m currently working on HibiscusMC!
+- 🔭 I’m currently working on HibiscusMC & the Hibiscus Creative Studios! 🌺
 
-- 🌱 I’m currently learning **JavaScript and Java**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me: **Contact me @ lucian@hibiscusmc.com**
 
